@@ -61,6 +61,7 @@ Que el rango de presupuesto final que da el Árbitro sea confiable y quede regis
 | Backend en Google Cloud Run en vez de laptop propia o VM | No depender de electricidad/internet de casa; cero mantenimiento de hardware; cuota gratuita mensual cubre de sobra este volumen de uso | — Pending |
 | Roles editables (CRUD completo) desde v1, no hardcodeados primero | Ya se decidió login con cuentas — tiene sentido que el dueño gestione sus propios roles desde el día 1 en vez de depender de un redeploy de código | — Pending |
 | Auth con cuentas (OTP por email) en vez de app sin login | Mismo patrón que el resto del ecosistema BONA, por si en el futuro otra persona del equipo la usa | — Pending |
+| Datos compartidos entre todas las cuentas (`authenticated USING (true)`, sin `owner_id`) en vez de aislados por cuenta | Consistente con la intención de "herramienta de equipo" ya expresada; mismo modelo que bonapp-gastos | — Pending |
 
 ## Evolution
 
