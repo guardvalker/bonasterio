@@ -65,30 +65,30 @@ Excluido explícitamente. Documentado para prevenir scope creep.
 
 ## Traceability
 
-Se completa durante la creación del roadmap.
+Completado durante la creación del roadmap (5 fases, ver ROADMAP.md).
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| DEBATE-01 | TBD | Pending |
-| DEBATE-02 | TBD | Pending |
-| DEBATE-03 | TBD | Pending |
-| DEBATE-04 | TBD | Pending |
-| DEBATE-05 | TBD | Pending |
-| LIVE-01 | TBD | Pending |
-| HIST-01 | TBD | Pending |
-| HIST-02 | TBD | Pending |
-| HIST-03 | TBD | Pending |
-| ROLES-01 | TBD | Pending |
-| ROLES-02 | TBD | Pending |
-| AUTH-01 | TBD | Pending |
-| AUTH-02 | TBD | Pending |
-| AUTH-03 | TBD | Pending |
+| DEBATE-01 | Phase 5 | Pending |
+| DEBATE-02 | Phase 3 | Pending |
+| DEBATE-03 | Phase 3 | Pending |
+| DEBATE-04 | Phase 3 | Pending |
+| DEBATE-05 | Phase 3 | Pending |
+| LIVE-01 | Phase 5 | Pending |
+| HIST-01 | Phase 2 | Pending |
+| HIST-02 | Phase 2 | Pending |
+| HIST-03 | Phase 2 | Pending |
+| ROLES-01 | Phase 2 | Pending |
+| ROLES-02 | Phase 2 | Pending |
+| AUTH-01 | Phase 2 | Pending |
+| AUTH-02 | Phase 2 | Pending |
+| AUTH-03 | Phase 1 | Pending |
 
 **Coverage:**
 - v1 requirements: 14 total
-- Mapped a fases: 0 (pendiente del roadmap)
-- Sin mapear: 14 ⚠️ (se resuelve en el siguiente paso)
+- Mapped a fases: 14 (100%)
+- Sin mapear: 0 ✓
 
 ---
 *Requirements defined: 2026-08-20*
-*Last updated: 2026-08-20 after initial definition*
+*Last updated: 2026-08-20 after roadmap creation*
